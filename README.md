@@ -1,7 +1,7 @@
 # m5-hw8-yarce-cristian
 
 ## Issues
-I  had some issues doing to do this assignment but I was finally able to finish it with online resources.
+I  had some issues doing this assignment but I was finally able to finish it with online resources.
 
 
 ## Outside resourses 
